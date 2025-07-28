@@ -4,7 +4,7 @@ const Scan = () => {
   return (
     <div className='sance'>
         <div className="container sance-conten">
-          <img src="./public/img/sance.png" alt="" />
+          <img src="./img/sance.png" alt="" />
         </div>
     </div>
   )

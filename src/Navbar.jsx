@@ -6,7 +6,7 @@ const Navbar = () => {
        <div className="container navbar-content">
          <div className="banc">
            <div className='svg'>
-            <img src="./public/img/logo.svg" alt="" />
+            <img src="./img/logo.svg" alt="" />
              <h2>Hoo <span className='hoo'>Bank</span></h2>
            </div> 
             <ul>

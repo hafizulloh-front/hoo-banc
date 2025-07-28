@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer__top">
         <div className="footer__logo">
-          <div className="logo-icon"><img src="./public/img/logo.svg" alt="" /></div>
+          <div className="logo-icon"><img src="./img/logo.svg" alt="" /></div>
           <h2>Hoo<span>Bank</span></h2>
           <p>
             A new way to make the payments <br />

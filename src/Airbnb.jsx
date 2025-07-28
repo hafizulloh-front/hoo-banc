@@ -4,7 +4,7 @@ const Airbnb = () => {
   return (
     <div className='airbnb'>
     <div className="container arir-content">
-        <img src="./public/img/airbnb.png" alt="" />
+        <img src="./img/airbnb.png" alt="" />
     </div>
     </div>
   )

@@ -18,7 +18,7 @@ const Testimonials = () => {
                 Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.
               </p>
               <div className="profile">
-                <img src="./public/img/image.p.jpg" alt="Herman Jensen" className="avatar" />
+                <img src="./img/image.p.jpg" alt="Herman Jensen" className="avatar" />
                 <div>
                   <h4>Herman Jensen</h4>
                   <span>Founder & Leader</span>
@@ -32,7 +32,7 @@ const Testimonials = () => {
                 Money makes your life easier. If you're lucky to have it, you're lucky.
               </p>
               <div className="profile">
-                <img src="./public/img/rasm.p.jpg" alt="Steve Mark" className="avatar" />
+                <img src="./img/rasm.p.jpg" alt="Steve Mark" className="avatar" />
                 <div>
                   <h4>Steve Mark</h4>
                   <span>Founder & Leader</span>
@@ -45,7 +45,7 @@ const Testimonials = () => {
                 It is usually people in the money business, finance, and international trade that are really rich.
               </p>
               <div className="profile">
-                <img src="./public/img/rasm.p.jpg" alt="Kenn Gallagher" className="avatar" />
+                <img src="./img/rasm.p.jpg" alt="Kenn Gallagher" className="avatar" />
                 <div>
                   <h4>Kenn Gallagher</h4>
                   <span>Founder & Leader</span>

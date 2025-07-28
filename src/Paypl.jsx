@@ -4,7 +4,7 @@ const Paypl = () => {
   return (
     <div className='paypl'>  
        <div className="container paypl-content">
-          <img src="./public/img/tate.png" alt="" />
+          <img src="./img/tate.png" alt="" />
        </div>
     </div>
   )

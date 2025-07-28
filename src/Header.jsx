@@ -25,7 +25,7 @@ const Header = () => {
             </h5>
           </div>
           <div className="mostr2">
-            <img className="img1" src="./public/img/img1.png" alt="" />
+            <img className="img1" src="./img/img1.png" alt="" />
           </div>
         </div>
       </div>
