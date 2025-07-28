@@ -1,0 +1,27 @@
+.banc {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.banc ul {
+  display: flex;
+  gap: 56px;
+  
+}
+
+.banc ul li a {
+  color: white;
+}
+
+.svg {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.hoo {
+  color: #5CE1E6;
+}
+
